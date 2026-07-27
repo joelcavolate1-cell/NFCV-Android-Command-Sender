@@ -1,8 +1,9 @@
 # NFCV-Android-Command-Sender
 A Simple MAUI Android App for sending NFCV Command ISO 15693-3
 
-Working on It
-THe entire ISO 15693-3 is locked under a paywall of 2000 dollars, i managed to check nfcV commands and sending it in a RAW mode.
+Working on it, 
+
+The entire ISO 15693-3 is locked under a paywall of 2000 dollars, i managed to check nfcV commands and sending it in a RAW mode.
 Some Commands are PreInserted in the app but other are specific of the nfc chip that you are using.
 
 it's also possible to format your specific Command.
